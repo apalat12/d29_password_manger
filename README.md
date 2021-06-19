@@ -1,4 +1,4 @@
-# d29_password_manger
+# d29_password_manager
 Create your own password manager 
 The password manager will create a 16 digit password consist of alphanumeric charectors , special charectors All randomized. 
 
